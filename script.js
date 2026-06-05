@@ -1,5 +1,5 @@
 // Paste your Cloudflare Worker URL here after deployment. Example: https://sorrylink-api.yourname.workers.dev
-const API_BASE = 'PASTE_YOUR_CLOUDFLARE_WORKER_URL_HERE';
+const API_BASE = 'https://sorrylink-api.tanujsaharan17.workers.dev';
 const PAYMENT_AMOUNT = 49;
 
 const pages=[formPage,loadingPage,introPage,letterPage,meterPage,paymentPage,finalPage];
